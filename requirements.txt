@@ -1,0 +1,6 @@
+mecab-python3
+unidic-lite
+altair
+pandas
+streamlit
+tweepy
